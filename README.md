@@ -1,4 +1,4 @@
-# C# Eğitim Kampı 301 Entity FrameworkProjesi
+# C# Eğitim Kampı 301 Entity Framework Projesi
 NOT: Blank Solution altındaki CSharpEgitimKampi301.EFProject haricindeki kısımlar N katmanlı mimari eğitimiyle ilgilidir. Eğitim devam etmektedir.
 
 # CSharpEgitimKampi301.EFProject
